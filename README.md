@@ -1,11 +1,16 @@
 # Bonjour, je suis Billal Biad
 Bienvenue sur mon profil GitHub !
 ## À propos de moi
-- Étudiant Passionné de tech
-- J’apprends actuellement : Python, Git, DevOps
-- Objectif : Construire des projets utiles et apprendre chaque jour
+Curieux et passionné par la data, je suis à la recherche d'une opportunité qui me
+permettra de mettre à profit mes compétences en analyse de données et en
+modélisation statistique tout en approfondissant mes connaissances en Big Data. Ma
+maîtrise de Python, R et PySpark, associée à une solide formation en économie-gestion,
+me permet d'aborder les problématiques data avec rigueur et pertinence. Autonome,
+rigoureux et doté d'un fort esprit d'analyse, je m'adapte rapidement et contribue
+efficacement à la performance des équipes.
+
 ## Technologies
-- Langages : JavaScript, Python, C++, R
+- Langages : SQL, Python, Pyspark, R
 - Outils : Git, Docker, VS Code
 ## Me contacter
 - Email : billal.biad@edu.univ-paris13.fr

@@ -9,7 +9,7 @@ Bienvenue sur mon profil GitHub !
 - Outils : Git, Docker, VS Code
 ## Me contacter
 - Email : billal.biad@edu.univ-paris13.fr
-- LinkedIn : https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
+- LinkedIn : https://fr.linkedin.com/in/billal-biad-162950365
 
 <!--
 **billalerat2/billalerat2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

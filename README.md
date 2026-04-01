@@ -1,4 +1,15 @@
-## Hi there 👋
+# Bonjour, je suis [Billal Biad]
+Bienvenue sur mon profil GitHub !
+## À propos de moi
+- Étudiant Passionné de tech
+- J’apprends actuellement : Python, Git, DevOps
+- Objectif : Construire des projets utiles et apprendre chaque jour
+## Technologies
+- Langages : JavaScript, Python, C++, R
+- Outils : Git, Docker, VS Code
+## Me contacter
+- Email : billal.biad@edu.univ-paris13.fr
+- LinkedIn : https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
 
 <!--
 **billalerat2/billalerat2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

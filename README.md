@@ -1,7 +1,7 @@
 # Bonjour, je suis Billal Biad
 Bienvenue sur mon profil GitHub !
 ## À propos de moi
-Curieux et passionné par la data, je suis à la recherche d'une opportunité qui me
+Curieux et passionné par la data, je suis un étudiant à la recherche d'une opportunité qui me
 permettra de mettre à profit mes compétences en analyse de données et en
 modélisation statistique tout en approfondissant mes connaissances en Big Data. Ma
 maîtrise de Python, R et PySpark, associée à une solide formation en économie-gestion,

@@ -1,4 +1,4 @@
-# Bonjour, je suis [Billal Biad]
+# Bonjour, je suis Billal Biad
 Bienvenue sur mon profil GitHub !
 ## À propos de moi
 - Étudiant Passionné de tech
